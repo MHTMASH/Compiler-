@@ -1,0 +1,2 @@
+int 2sum = 10;
+char *s = hello;
